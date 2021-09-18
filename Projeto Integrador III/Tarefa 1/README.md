@@ -14,6 +14,6 @@ Hipótese
 Jornada
 Funcionalidades
 
-#### [TRELLO PRONTO] (https://trello.com/b/EDGaCO9W/recycrew-tarefa-1)
+#### [TRELLO PRONTO](https://trello.com/b/EDGaCO9W/recycrew-tarefa-1)
 
 2. Preencher o documento Visão Geral de Requisitos com os dados do seu projeto.

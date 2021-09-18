@@ -4,11 +4,10 @@ Este repositório comtempla todas informações relacionadas ao Recycrew, uma ap
 
 ## Colaboradores
 
-Débora Silveira
-Everaldo Ribeiro
-Larissa Martins
-Luiz Silveira
-Samuel Araújo
+- Débora Silveira
+- Larissa Martins
+- Luiz Silveira
+- Samuel Araújo
 
 ## Sobre
 

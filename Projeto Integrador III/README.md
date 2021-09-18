@@ -5,7 +5,7 @@ Nesta pasta encontram-se todos os arquivos referentes às tarefas realizadas dur
 ## Tarefas 
 
 - [x] Tarefa 1: Ideação, escopo do projeto e requisitos
-- [ ] Tarefa 2: Diagrama de Caso de Uso e Atividade
+- [x] Tarefa 2: Diagrama de Caso de Uso e Atividade
 - [x] Tarefa 3: Diagrama de Classe e Objeto
 - [ ] Tarefa 4:
 - [ ] Tarefa 5:

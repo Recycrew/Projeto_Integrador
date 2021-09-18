@@ -1,5 +1,12 @@
 # Tarefa 1 
 
+## Colaboradores
+
+- Débora Silveira
+- Larissa Martins
+- Luiz Silveira
+- Samuel Araújo
+
 ## Ideação, escopo do projeto e requisitos
 
 Esta tarefa consiste na definição do escopo inicial do projeto e seus requisitos mínimos. 

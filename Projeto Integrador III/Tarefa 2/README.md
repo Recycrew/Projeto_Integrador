@@ -1,5 +1,12 @@
 # Tarefa 2
 
+## Colaboradores
+
+- Débora Silveira
+- Larissa Martins
+- Luiz Silveira
+- Samuel Araújo
+
 ## Diagrama de Caso de Uso e Atividade
 
 1. Elaborar 4 casos de Uso Descritivo sobre o contexto dos requisitos levantados na Tarefa 1.

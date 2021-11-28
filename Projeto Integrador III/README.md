@@ -15,6 +15,6 @@ Nesta pasta encontram-se todos os arquivos referentes às tarefas realizadas dur
 - [x] Tarefa 2: Diagrama de Caso de Uso e Atividade
 - [x] Tarefa 3: Diagrama de Classe e Objeto
 - [x] Tarefa 4: Banco de Dados
-- [ ] Tarefa 5:
-- [ ] Tarefa 6:
-- [ ] Tarefa 7:
+- [x] Tarefa 5: Orientação a Objetos
+- [x] Tarefa 6: Testes Unitários
+- [x] Tarefa 7: Prototipação de Alta Fidelidade, Teste AB e Pitch Deck

@@ -32,6 +32,9 @@ h4,
 h5,
 h6 {
   font-family: 'Montserrat', sans-serif;
+  text-align: start;
+  word-wrap: break-word;
+  white-space: wrap;
 }
 
 h1 {
